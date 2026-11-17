@@ -1,0 +1,15 @@
+{
+	"name": "adf-day5-varun-2005",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "94ddde52-89a0-4b25-9413-b3b12f5ed037",
+		"tenantId": "b004a8b0-87e2-43c3-9940-c62feee15ff9"
+	}
+}
